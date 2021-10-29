@@ -77,6 +77,7 @@ pub use crate::{
     StatefulHasher,
   },
   multihash::{
+    DynMultihash,
     Multihash as MultihashGeneric,
     MultihashDigest,
   },
